@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelManagementSystem.Models", "PersonnelManagementSystem.Models\PersonnelManagementSystem.Models.csproj", "{38EE0A57-4CB6-4C11-8C07-CA274F4FF657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelManagementSystem.API", "PersonnelManagementSystem.API\PersonnelManagementSystem.API.csproj", "{10DAF79B-8402-4DD2-962A-CF738B610DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelManagementSystem.UI", "PersonnelManagementSystem.UI\PersonnelManagementSystem.UI.csproj", "{231ABA28-08DB-475E-A95A-50ACB66C8822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38EE0A57-4CB6-4C11-8C07-CA274F4FF657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EE0A57-4CB6-4C11-8C07-CA274F4FF657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EE0A57-4CB6-4C11-8C07-CA274F4FF657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EE0A57-4CB6-4C11-8C07-CA274F4FF657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DAF79B-8402-4DD2-962A-CF738B610DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DAF79B-8402-4DD2-962A-CF738B610DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DAF79B-8402-4DD2-962A-CF738B610DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DAF79B-8402-4DD2-962A-CF738B610DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231ABA28-08DB-475E-A95A-50ACB66C8822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231ABA28-08DB-475E-A95A-50ACB66C8822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231ABA28-08DB-475E-A95A-50ACB66C8822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231ABA28-08DB-475E-A95A-50ACB66C8822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
